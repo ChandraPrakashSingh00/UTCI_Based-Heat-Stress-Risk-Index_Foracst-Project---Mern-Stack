@@ -10,7 +10,8 @@ A **real-world research project** developed in collaboration with **IIT Roorkee*
 
 ## 📸 Project Preview
 
-![UTCI Risk Forecast UI](![Uploading UTCI_Based Heat Stress Risk Index_Forcast Project Images.JPG…]()
+![UTCI Risk Forecast UI](![Uploading UTCI_Based Heat Stress Risk Index_Forcast Project Images.JPG…](![UTCI_Based Heat Stress Risk Index_Forcast Project Images](https://github.com/user-attachments/assets/48c31141-5fe3-4dd4-b560-c351f8515e40)
+)
 ) <!-- Replace with actual path if different -->
 
 ---
