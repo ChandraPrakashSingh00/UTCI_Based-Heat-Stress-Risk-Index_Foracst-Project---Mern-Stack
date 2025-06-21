@@ -49,7 +49,8 @@ This project converts environmental inputs into UTCI values and categorizes the 
 
 | Dashboard View | UTCI Map View |
 |----------------|----------------|
-| ![Dashboard](./assets/dashboard.png) | ![Map](./assets/map.png) |
+| ![Dashboard](![UTCI_Based Heat Stress Risk Index_Forcast Project Images](https://github.com/user-attachments/assets/ccbee931-3cb9-4e3d-900b-2f8a6825d81d)
+) | ![Map](./assets/map.png) |
 
 ---
 
