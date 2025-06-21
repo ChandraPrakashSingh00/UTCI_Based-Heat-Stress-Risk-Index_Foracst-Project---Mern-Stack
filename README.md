@@ -47,7 +47,7 @@ This project converts environmental inputs into UTCI values and categorizes the 
 
 > Add your images in `/assets` or use direct URLs from GitHub uploads or image hosting.
 
-| Dashboard View | UTCI Map View |
+| Dashboard View | 
 |----------------|----------------|
 | ![Dashboard](![UTCI_Based Heat Stress Risk Index_Forcast Project Images](https://github.com/user-attachments/assets/ccbee931-3cb9-4e3d-900b-2f8a6825d81d)
 ) 
