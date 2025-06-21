@@ -14,7 +14,8 @@ This project is a research-backed, real-time web application built using the **M
 
 ---
 
-![Project Screenshot](![Uploading UTCI_Based Heat Stress Risk Index_Forcast Project Images.JPG…]()
+![Project Screenshot](![![UTCI_Based Heat Stress Risk Index_Forcast Project Images](https://github.com/user-attachments/assets/fda34b8d-9feb-44fb-aa30-793d1241c2aa)
+]()
 ) <!-- Replace with your actual image path -->
 
 ---
