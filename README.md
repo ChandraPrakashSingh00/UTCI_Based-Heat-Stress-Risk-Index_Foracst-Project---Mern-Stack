@@ -1,63 +1,72 @@
 # 🌡️ UTCI-Based Heat Stress Risk Index Forecast – MERN Stack 🌍
 
-This project is a research-backed, real-time web application built using the **MERN stack** that forecasts **heat stress risk levels** based on **UTCI (Universal Thermal Climate Index)**. Designed in collaboration with IIT Roorkee, the application aims to help citizens, researchers, and policy makers understand and monitor heat stress conditions effectively.
+A **real-world research project** developed in collaboration with **IIT Roorkee**, this web application forecasts **heat stress risk levels** using the **Universal Thermal Climate Index (UTCI)**. Built with the powerful **MERN Stack**, it helps users monitor thermal comfort levels and make informed decisions in the face of rising heat stress due to climate change.
 
-> 🚀 Powered by MongoDB, Express.js, React.js, Node.js.
+> 🔬 Designed for researchers, citizens, city planners, and climate response teams.
 
----
-
-![Project Screenshot](![UTCI_Based Heat Stress Risk Index_Forcast Project Images](https://github.com/user-attachments/assets/2a4989f8-0431-498f-9bd4-abcc5664ef75)
-) <!-- Replace with your actual image path -->
+> 🛠️ Built using: **MongoDB + Express.js + React.js + Node.js**, and integrates live REST APIs for real-time forecast and environmental data processing.
 
 ---
 
-## 🔬 What is UTCI?
+## 📸 Project Preview
 
-The **Universal Thermal Climate Index (UTCI)** is a globally recognized indicator for human thermal stress. It accounts for:
-- Air Temperature 🌡️
-- Humidity 💧
-- Wind Speed 🌬️
-- Radiation ☀️
-
-This project converts environmental inputs into UTCI values and categorizes the risk level from **no stress** to **extreme heat stress**.
+![UTCI Risk Forecast UI](![Uploading UTCI_Based Heat Stress Risk Index_Forcast Project Images.JPG…]()
+) <!-- Replace with actual path if different -->
 
 ---
 
-## 🧠 Features
+## 🔍 What is UTCI?
 
-- 📈 Live UTCI Risk Forecast by Location
-- 🗺️ Interactive Heat Stress Map (Google Maps/Leaflet based)
-- 👨‍🔬 Admin Dashboard (data control & analysis)
-- 👥 Role-Based User Authentication
-- 🔄 Real-Time Data Updates (via APIs)
-- 📊 Graphical Visualization of UTCI levels
-- 🔐 Secure RESTful APIs
+The **Universal Thermal Climate Index (UTCI)** is a globally recognized model used to determine **heat stress impact on the human body**, considering multiple environmental factors like:
+
+- 🌡️ **Air Temperature**
+- 💧 **Relative Humidity**
+- 🌬️ **Wind Speed**
+- ☀️ **Solar Radiation**
+
+Using these inputs, the system classifies thermal stress into categories like:
+
+- ✅ No Thermal Stress
+- ⚠️ Moderate Heat Stress
+- ❗ Strong Heat Stress
+- 🔥 Extreme Heat Stress
+
+---
+
+## 🧠 Key Features
+
+- 📈 **Live UTCI-Based Heat Stress Forecast** by user location
+- 🗺️ **Interactive Map View** using Leaflet.js / Google Maps
+- 📊 **Graphical Display** of UTCI levels (Chart.js)
+- 🔐 **Role-Based User Authentication** (JWT-secured)
+- 👨‍💼 **Admin Dashboard** for data control and risk threshold updates
+- 🔄 **Real-Time Environmental Data** from public APIs
+- 🧾 **RESTful APIs** for clean and scalable backend architecture
+- 🌐 **Responsive UI** with Tailwind CSS
 
 ---
 
 ## 🧰 Tech Stack
 
-| Frontend      | Backend       | Database | Others                  |
-|---------------|---------------|----------|--------------------------|
-| React.js ⚛️     | Express.js 🚀    | MongoDB 🍃 | Tailwind CSS, JWT, Chart.js |
+| Layer       | Technology                |
+|-------------|---------------------------|
+| **Frontend**  | React.js, Tailwind CSS       |
+| **Backend**   | Node.js, Express.js         |
+| **Database**  | MongoDB (Mongoose ODM)      |
+| **Data Viz**  | Chart.js, Leaflet.js        |
+| **Security**  | JWT Authentication, CORS    |
+| **APIs Used** | OpenWeatherMap / Custom UTCI API |
 
 ---
 
-## 📸 Screenshots
+## 🧪 Real-World Use Cases
 
-> Add your images in `/assets` or use direct URLs from GitHub uploads or image hosting.
-
-| Dashboard View | 
-|----------------|----------------|
-| ![Dashboard](![UTCI_Based Heat Stress Risk Index_Forcast Project Images](https://github.com/user-attachments/assets/ccbee931-3cb9-4e3d-900b-2f8a6825d81d)
-) 
+- 🏙️ **Urban Planners** – Design safer city zones in high heat areas
+- 🚑 **Public Health Officials** – Issue heatwave warnings to citizens
+- 👨‍🏫 **Researchers** – Study climate patterns & human vulnerability
+- 🧭 **Disaster Management Teams** – Predict extreme heat events
 
 ---
 
-## 🛠️ Installation Guide
+## 📂 Folder Structure
 
-### 🔧 Clone the Repository
-
-```bash
-git clone https://github.com/ChandraPrakashSingh00/UTCI_Based-Heat-Stress-Risk-Index_Foracst-Project---Mern-Stack.git
-cd UTCI_Based-Heat-Stress-Risk-Index_Foracst-Project---Mern-Stack
